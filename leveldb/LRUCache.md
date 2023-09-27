@@ -41,3 +41,5 @@
 为了更直观的理解上述各个类及其成员变量，请看`LRUCache`结构图：
 
 ![](assets/image-20230927145301081.png)
+
+[漫谈 LevelDB 数据结构（三）：LRU 缓存（ LRUCache）](https://mp.weixin.qq.com/s?__biz=Mzg5NTcxNzY2OQ==&mid=2247484667&idx=1&sn=3ff6e87660c0799381a702e971b97e91&source=41#wechat_redirect)
